@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Malak 👋</h1>
+<h1 align="center">Hey World, I'm Malak!</h1>
 <p align="center">
   🎓 AI & Software Engineering Student | 💻 Dev | 🤖 AI Trainer | 🧠 Machine Learning Enthusiast<br/>
   📍 Casablanca, Morocco | 🌍 Multilingual | 💡 Always learning
