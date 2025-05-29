@@ -9,7 +9,6 @@
 ## 👾 About Me
 
 - 👩‍🎓 AI & Software Engineering student at ENSAM Casablanca
-- 🤖 AI Trainer at **Scale AI**, enhancing the next-gen LLMs
 - 🧰 Builder of real-world tools like **FinEx**, **Automata Manager**, and currently working on **PlagAI**
 - 🌍 Club president at **Rotaract ENSAM-C**, passionate about Social Impact
 
