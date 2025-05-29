@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## 👾 About Me
 
 - 👩‍🎓 AI & Software Engineering student at ENSAM Casablanca
 - 🤖 AI Trainer at **Scale AI**, enhancing the next-gen LLMs
@@ -37,9 +37,9 @@
 
 ---
 
-## 🧠 Projects That Excite Me
+## 🤖 Projects That Excite Me
 
-### 🧪 [Plagiarism Detection System](https://github.com/mal0101/plagiarism-detector)
+### 🧪 [PlagAi](https://github.com/mal0101/plagiarism-detector)
 
 > 🚧 **In Progress** — Building an end-to-end system that detects plagiarism using NLP + ML!
 
