@@ -38,7 +38,7 @@
 
 ## 🤖 Projects That Excite Me
 
-### 🧪 [PlagAi](https://github.com/mal0101/plagiarism-detector)
+### 🧪 [PlagAi](https://github.com/mal0101/PlagAi)
 
 > 🚧 **In Progress** — Building an end-to-end system that detects plagiarism using NLP + ML!
 
@@ -51,7 +51,7 @@
 ### 💸 [FinEx – Personal Finance App](https://github.com/mal0101/FinEx)
 > AI-powered finance assistant with OCR receipts, budgeting, predictions, and analytics – full-stack with Django + React.
 
-### 🔄 [Automata Manager](https://github.com/mal0101/Automata-Manager)
+### 🔄 [Automata Manager](https://github.com/mal0101/automata_project)
 > Visual, interactive platform for building and testing finite automata – NFA/DFA conversion, simulation, and more!
 
 ---
