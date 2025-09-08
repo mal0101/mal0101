@@ -1,1 +1,3 @@
-![Alt Text](https://pin.it/7muNVVnYS)
+<p align="center">
+  <img src="https://pin.it/2xeHUL1rS">
+</p>
